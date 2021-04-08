@@ -1,4 +1,4 @@
-[webservers]
+[webserver]
 ec2-52-53-160-68.us-west-1.compute.amazonaws.com
 
 [webserver:vars]
